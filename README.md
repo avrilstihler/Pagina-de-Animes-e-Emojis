@@ -22,12 +22,20 @@ Tudo foi feito de forma simples e visualmente agradável, sem o uso de CSS exter
 A estrutura do projeto é composta pelos seguintes arquivos e pastas:
 
 - **`index.html`**: Página inicial com os emojis dos animes e links para as páginas dos animes.
+- **`naruto.html`**: Página com detalhes sobre o anime *Naruto*.
 - **`attackontitan.html`**: Página com detalhes sobre o anime *Attack on Titan*.
 - **`deathnote.html`**: Página com detalhes sobre o anime *Death Note*.
 - **`onepiece.html`**: Página com detalhes sobre o anime *One Piece*.
+- **`demonslayer.html`**: Página com detalhes sobre o anime *Demon Slayer*.
 - **`images/`**: Pasta que contém as imagens dos animes.
 
 ## Como Usar
+
+Acesse o site pelo link: [](https://avrilstihler.github.io/Pagina-Simples-em-HTML/)[]
+
+
+Ou siga os passos abaixo:
+
 
 1. **Clonar o Repositório**:
    Para clonar o repositório em sua máquina local, utilize o seguinte comando:
@@ -35,9 +43,9 @@ A estrutura do projeto é composta pelos seguintes arquivos e pastas:
    ```bash
    git clone https://github.com/avrilstihler/Pagina-Simples-em-HTML.git
    ````
-2. Abrir o Projeto no Navegador: Após clonar o repositório, abra o arquivo index.html em seu navegador. A partir dessa página, você pode explorar os animes clicando nos emojis.
+2. **Abrir o Projeto no Navegador**: Após clonar o repositório, abra o arquivo index.html em seu navegador. A partir dessa página, você pode explorar os animes clicando nos emojis.
 
-3. Interatividade:
+## Interatividade:
    - Ao clicar em qualquer emoji, você será redirecionado para a página específica daquele anime.
    - Cada página de anime contém uma descrição, uma imagem e um link para assistir à abertura no YouTube.
    - Use o link "Voltar para a Página Inicial" para retornar à página principal.
