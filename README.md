@@ -29,21 +29,9 @@ A estrutura do projeto é composta pelos seguintes arquivos e pastas:
 - **`demonslayer.html`**: Página com detalhes sobre o anime *Demon Slayer*.
 - **`images/`**: Pasta que contém as imagens dos animes.
 
-## Como Usar
+
 
 Acesse o site pelo link: [https://avrilstihler.github.io/Pagina-Simples-em-HTML/](https://avrilstihler.github.io/Pagina-Simples-em-HTML/)
-
-
-Ou siga os passos abaixo:
-
-
-1. **Clonar o Repositório**:
-   Para clonar o repositório em sua máquina local, utilize o seguinte comando:
-
-   ```bash
-   git clone https://github.com/avrilstihler/Pagina-Simples-em-HTML.git
-   ````
-2. **Abrir o Projeto no Navegador**: Após clonar o repositório, abra o arquivo index.html em seu navegador. A partir dessa página, você pode explorar os animes clicando nos emojis.
 
 ## Interatividade:
    - Ao clicar em qualquer emoji, você será redirecionado para a página específica daquele anime.
@@ -55,24 +43,6 @@ Ou siga os passos abaixo:
  - Estilos em HTML: Os estilos (como tamanho de fonte, cor, bordas arredondadas nas imagens e efeitos de hover nos links) foram definidos diretamente dentro das tags <style> no próprio arquivo HTML.
  - Imagens: As imagens dos animes estão localizadas na pasta images/ e são usadas para complementar as descrições e tornar a experiência mais visual e interativa.
 
-## Como Personalizar
-Para adicionar mais animes, basta criar uma nova página HTML, seguindo a mesma estrutura das páginas já existentes, e adicionar o emoji correspondente na página index.html.
-   - As imagens dos animes devem ser colocadas na pasta images/ e nomeadas de acordo com o anime.
-
-
-Exemplo de como adicionar um novo anime:
-
-````html
-<h1>Nome do Anime 🏴‍☠️</h1>
-<p>Descrição criativa sobre o anime.🌟"</p>
-
-<!-- Imagem com bordas arredondadas -->
-<img src="images/nomedoanime.jpg" alt="Nome do Anime" style="max-width: 100%; border-radius: 15px; margin-bottom: 20px;">
-
-<p>Sinta a emoção assistindo à abertura clicando no link abaixo:</p>
-<a href="https://www.youtube.com/watch?v=linkdovideo" target="_blank" style="font-size: 1.2rem; text-decoration: none; color: #007bff;">📺 Nome do Anime Opening</a>
-
-````
 ## Considerações Finais
 Este projeto é um exemplo simples de como é possível criar uma página interativa utilizando apenas HTML e estilos internos, sem a necessidade de CSS externo. A ideia é apresentar uma maneira divertida de explorar animes através de emojis, com uma navegação simples e intuitiva. A estrutura do projeto é fácil de entender e pode ser expandida facilmente, caso você queira adicionar mais animes ou personalizar o conteúdo.
 
