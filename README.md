@@ -31,7 +31,7 @@ A estrutura do projeto é composta pelos seguintes arquivos e pastas:
 
 ## Como Usar
 
-Acesse o site pelo link: [](https://avrilstihler.github.io/Pagina-Simples-em-HTML/)
+Acesse o site pelo link: [https://avrilstihler.github.io/Pagina-Simples-em-HTML/](https://avrilstihler.github.io/Pagina-Simples-em-HTML/)
 
 
 Ou siga os passos abaixo:
