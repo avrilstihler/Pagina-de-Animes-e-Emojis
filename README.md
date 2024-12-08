@@ -29,7 +29,7 @@ A estrutura do projeto é composta pelos seguintes arquivos e pastas:
 - **`demonslayer.html`**: Página com detalhes sobre o anime *Demon Slayer*.
 - **`images/`**: Pasta que contém as imagens dos animes.
 
-## Como usar:
+## Como usar
 
 Acesse o site pelo link: [https://avrilstihler.github.io/Pagina-Simples-em-HTML/](https://avrilstihler.github.io/Pagina-Simples-em-HTML/)
 
