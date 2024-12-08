@@ -31,7 +31,7 @@ A estrutura do projeto é composta pelos seguintes arquivos e pastas:
 
 ## Como usar
 
-Acesse o site pelo link: [https://avrilstihler.github.io/Pagina-Simples-em-HTML/](https://avrilstihler.github.io/Pagina-Simples-em-HTML/)
+Acesse o site pelo link: [https://avrilstihler.github.io/Pagina-de-Animes-e-Emojis/](https://avrilstihler.github.io/Pagina-de-Animes-e-Emojis/)
 
 ## Interatividade
    - Ao clicar em qualquer emoji, você será redirecionado para a página específica daquele anime.
