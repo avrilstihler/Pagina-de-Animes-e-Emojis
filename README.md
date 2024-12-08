@@ -64,9 +64,14 @@ Exemplo de como adicionar um novo anime:
 
 ````html
 <h1>Nome do Anime 🏴‍☠️</h1>
-<img src="images/nomedoanime.jpg" alt="Nome do Anime" style="width: 80%; max-width: 400px; border-radius: 15px; margin-bottom: 20px;">
-<p>Descrição do anime. 🌟</p>
-<a href="https://www.youtube.com/watch?v=linkdovideo" target="_blank">📺 Nome do Anime Opening</a>
+<p>Descrição criativa sobre o anime.🌟"</p>
+
+<!-- Imagem com bordas arredondadas -->
+<img src="images/nomedoanime.jpg" alt="Nome do Anime" style="max-width: 100%; border-radius: 15px; margin-bottom: 20px;">
+
+<p>Sinta a emoção assistindo à abertura clicando no link abaixo:</p>
+<a href="https://www.youtube.com/watch?v=linkdovideo" target="_blank" style="font-size: 1.2rem; text-decoration: none; color: #007bff;">📺 Nome do Anime Opening</a>
+
 ````
 ## Considerações Finais
 Este projeto é um exemplo simples de como é possível criar uma página interativa utilizando apenas HTML e estilos internos, sem a necessidade de CSS externo. A ideia é apresentar uma maneira divertida de explorar animes através de emojis, com uma navegação simples e intuitiva. A estrutura do projeto é fácil de entender e pode ser expandida facilmente, caso você queira adicionar mais animes ou personalizar o conteúdo.
