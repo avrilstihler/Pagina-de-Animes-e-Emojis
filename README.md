@@ -1,6 +1,9 @@
 # Projeto de Animes e Emojis 🎥🍥⚔️
 
-Acesse o site pelo link: [https://avrilstihler.github.io/Pagina-de-Animes-e-Emojis/](https://avrilstihler.github.io/Pagina-de-Animes-e-Emojis/)
+Clique: [aqui](https://avrilstihler.github.io/Pagina-de-Animes-e-Emojis/) para acessar o site.
+
+![Animes e Emojis](images/animesemojis)
+
 
 
 Este projeto foi desenvolvido totalmente em **HTML**, sem o uso de CSS externo ou frameworks. A proposta é criar uma página interativa e simples para explorar diferentes animes usando emojis. Cada anime é representado por um emoji, e ao clicar no emoji, o usuário é redirecionado para uma página com detalhes sobre o anime, incluindo uma breve descrição, imagem e o link para assistir à abertura no YouTube.
