@@ -1,8 +1,10 @@
 # Projeto de Animes e Emojis 🎥🍥⚔️
+> "Animes, assim como qualquer obra de arte, têm o poder de preencher o vazio que às vezes sentimos dentro de nós. Eles nos oferecem não apenas entretenimento, mas também lições de vida, nos fazem refletir sobre nossas escolhas, nossos valores e nossa humanidade. Ao nos conectarmos com personagens e histórias, encontramos consolo, inspiração e, muitas vezes, uma razão para continuar em meio à complexidade da vida."
+
 
 Clique: [aqui](https://avrilstihler.github.io/Pagina-de-Animes-e-Emojis/) para acessar o site.
 
-![Animes e Emojis](images/animesemojis)
+![Animes e Emojis](images/animesemojis.png)
 
 
 
@@ -21,7 +23,7 @@ O objetivo deste projeto é explorar e aprender os conceitos básicos de HTML at
   - Um link para assistir à abertura do anime no YouTube.
   - Um link para retornar à página inicial.
 
-Tudo foi feito de forma simples e visualmente agradável, sem o uso de CSS externo, com os estilos aplicados diretamente no próprio HTML por meio da tag <style>.
+Tudo foi feito de forma simples e visualmente agradável, sem o uso de CSS externo, com os estilos aplicados diretamente no próprio HTML por meio da tag `<style>`.
 
 ## Estrutura do Projeto
 
