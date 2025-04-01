@@ -37,5 +37,16 @@ A estrutura do projeto é composta pelos seguintes arquivos e pastas:
 - **`demonslayer.html`**: Página com detalhes sobre o anime *Demon Slayer*.
 - **`images/`**: Pasta que contém as imagens dos animes.
 
-![Descrição da imagem](images/capturas-de-tela/onepieceprint.png)
+# Capturas de Tela 📸 
+
+>  🔍  Veja como o site se parece!
+
+
+![Naruto Print](images/capturas%20de%20tela/narutoprint.png)
+![One Piece Print](images/capturas%20de%20tela/onepieceprint.png)
+![Attack on Titan Print](images/capturas%20de%20tela/aotprint.png)
+![Demon Slayer Print](images/capturas%20de%20tela/demonslayerprint.png)
+![Death Note Print](images/capturas%20de%20tela/deathnoteprint.png)
+
+
 
