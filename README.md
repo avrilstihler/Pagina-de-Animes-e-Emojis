@@ -36,3 +36,6 @@ A estrutura do projeto é composta pelos seguintes arquivos e pastas:
 - **`onepiece.html`**: Página com detalhes sobre o anime *One Piece*.
 - **`demonslayer.html`**: Página com detalhes sobre o anime *Demon Slayer*.
 - **`images/`**: Pasta que contém as imagens dos animes.
+
+![Descrição da imagem](images/capturas-de-tela/onepieceprint.png)
+
